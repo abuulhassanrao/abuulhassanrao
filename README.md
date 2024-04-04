@@ -1,11 +1,16 @@
 # Rao Abuulhassan
 
-## Contact Information
+Hi, I'm Rao Abuulhassan, a passionate Data Scientist with a BSc. (Hons) from Lahore University of Management Sciences (LUMS), specialized in leveraging data analytics and visualization to drive actionable insights and data-driven decision-making.
 
-- Linkedin: [abuulhassanrao](https://linkedin.com/in/abuulhassanrao)
-- GitHub: [abuulhassanrao](https://github.com/abuulhassanrao)
-- Email: [abuulhassanrao21@gmail.com](mailto:abuulhassanrao21@gmail.com)
+I am passionate about extracting actionable insights from raw data. With a track record of success in projects focused on sales analytics, customer segmentation, retention strategies, and data-driven analysis, I excel in transforming complex datasets into clear, impactful narratives. I specialize in leveraging SQL, advanced Excel, Power BI, Tableau, and Python to drive data driven business decisions.
 
+My expertise lie in collaborating with cross-functional teams to identify key performance indicators, optimize data workflows, and implement scalable analytics solutions. My analytical acumen, coupled with a keen eye for detail, enables me to deliver high-quality, actionable insights that drive revenue growth, enhance customer engagement, and foster data-driven cultures.
+
+## Core Skills
+
+- **Data Management & Analysis:** SQL, Python (Pandas, Numpy, Scikit-Learn), Teradata, Git/GitHub (Version Control)
+- **Data Visualization:** Power BI, Tableau, Google Data Studio, Looker Studio, Matplotlib, Seaborn, Plotly
+- **Project Management & Collaboration:** Asana, Jira, Google Suite, Microsoft Office 365
 
 ## Work Experience
 
@@ -51,12 +56,6 @@ Through customer retention analysis, we identified customer demographics and ins
 
 Our diversity and inclusion analysis involved examining gender balance in the executive suite, defining relevant KPIs in hiring, promotion, performance, and turnover, creating a visualization in Power BI, and writing a report on potential root causes of slow progress in this area.
 
-## Core Skills
-
-- **Data Management & Analysis:** SQL, Python (Pandas, Numpy, Scikit-Learn), Teradata, Git/GitHub (Version Control)
-- **Data Visualization:** Power BI, Tableau, Google Data Studio, Looker Studio, Matplotlib, Seaborn, Plotly
-- **Project Management & Collaboration:** Asana, Jira, Google Suite, Microsoft Office 365
-
 ## Training/Certifications
 
 - Data Warehouse & Business Intelligence | Dice Camp | May 2024
@@ -69,3 +68,9 @@ Lahore University of Management Sciences (LUMS) | Bsc. (Hons) | 2017- 2021
 
 **Relevant courses:** Statistics, Probability, Data Analysis, Quantitative Research Methods, Development
 Economics, Calculus, Linear Algebra, Game Theory, Marketing, and Writing & Communications
+
+## Contact Information
+
+- Linkedin: [abuulhassanrao](https://linkedin.com/in/abuulhassanrao)
+- GitHub: [abuulhassanrao](https://github.com/abuulhassanrao)
+- Email: [abuulhassanrao21@gmail.com](mailto:abuulhassanrao21@gmail.com)
