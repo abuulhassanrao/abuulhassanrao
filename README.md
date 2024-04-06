@@ -69,8 +69,9 @@ Lahore University of Management Sciences (LUMS) | Bsc. (Hons) | 2017- 2021
 **Relevant courses:** Statistics, Probability, Data Analysis, Quantitative Research Methods, Development
 Economics, Calculus, Linear Algebra, Game Theory, Marketing, and Writing & Communications
 
-## Contact Information
 
-- Linkedin: [abuulhassanrao](https://linkedin.com/in/abuulhassanrao)
-- GitHub: [abuulhassanrao](https://github.com/abuulhassanrao)
-- Email: [abuulhassanrao21@gmail.com](mailto:abuulhassanrao21@gmail.com)
+## Other Skills
+- LinkedIn Expert
+- Canva Expert
+- Social Media Expert
+  
