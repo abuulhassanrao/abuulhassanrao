@@ -1,6 +1,6 @@
 # Rao Abuulhassan
 
-Hi, I'm Rao Abuulhassan, a passionate Data Scientist with a BSc. (Hons) from Lahore University of Management Sciences (LUMS), specialized in leveraging data analytics and visualization to drive actionable insights and data-driven decision-making.
+Hi, I'm Rao Abuulhassan, a passionate Data Scientist with a BSc. (Hons) from Lahore University of Management Sciences (LUMS), specializing in leveraging data analytics and visualization to drive actionable insights and data-driven decision-making.
 
 I am passionate about extracting actionable insights from raw data. With a track record of success in projects focused on sales analytics, customer segmentation, retention strategies, and data-driven analysis, I excel in transforming complex datasets into clear, impactful narratives. I specialize in leveraging SQL, advanced Excel, Power BI, Tableau, and Python to drive data-driven business decisions.
 
@@ -17,6 +17,7 @@ My expertise lies in collaborating with cross-functional teams to identify key p
 **Wateen Telecom Limited | Senior Executive Business Intelligence Analyst | May 2024 – till date**
 
 **Senior Business Intelligence Analyst**
+
 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗲𝗱 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗘𝗧𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 & 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝗻𝗲𝗱 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Developed PySpark scripts and leveraged HDFS, Apache Spark, Hadoop, and PL/SQL to build efficient ETL pipelines that process large datasets and optimize business processes.
 
 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗳𝗼𝗿 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Utilized advanced analytics to extract actionable insights from extensive data, aligning findings with strategic operational objectives.
@@ -26,6 +27,7 @@ My expertise lies in collaborating with cross-functional teams to identify key p
 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐃𝐚𝐭𝐚 𝐖𝐚𝐫𝐞𝐡𝐨𝐮𝐬𝐢𝐧𝐠 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬: Applied Informatica to streamline data flows between Oracle and PostgreSQL databases, and implemented Python scripts to automate data extraction, processing, and FTP storage, ensuring reliable integration and timely updates.
 
 **Business Intelligence Analyst**
+
 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐈𝐦𝐩𝐚𝐜𝐭𝐟𝐮𝐥 𝐁𝐈 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬 & 𝐑𝐞𝐩𝐨𝐫𝐭𝐬: Created interactive dashboards, KPIs, and scorecards using IBM Cognos and Power BI while managing data source settings and scheduled refresh cycles to ensure accurate, up-to-date reporting.
 
 𝗕𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗦𝘂𝗽𝗽𝗼𝗿𝘁: Developed and maintained interactive dashboards, KPIs, and scorecards using IBM Cognos and Power BI, ensuring timely, accurate insights for decision-making.
