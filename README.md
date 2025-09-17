@@ -93,6 +93,7 @@ Economics, Calculus, Linear Algebra, Game Theory, Marketing, and Writing & Commu
 
 
 ## Other Skills
+- AI Tools (ChatGPT, Julius AI, Mocha, etc)
 - LinkedIn Expert
 - Canva Expert
 - Social Media Expert
